@@ -497,4 +497,10 @@
     padding-right: 0.5vw;
     color: white;
   }
+  #usenou
+  {
+    background: linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.2)),url('https://nouegyan.in/assets/img/bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   
